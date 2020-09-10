@@ -4,6 +4,7 @@ body {
 	font-family: Monospace;
 	font-size: 13px;
 	line-height: 24px;
+	background-color:#2EA24C;
 }
 
 a {
@@ -24,12 +25,7 @@ h1{
 	color:#cbcbcb;
 }
 
-#slider{
-	width:100%;
-	height:auto;
-	margin:0;
-	padding:0;
-}
+
 body, html {
     height: 100%;
 }
